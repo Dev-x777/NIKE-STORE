@@ -1,4 +1,4 @@
-# NIKE Store - Commerce Web Application
+# NIKE Store E - Commerce Web Application
 
 ## Project Overview
 
@@ -22,10 +22,23 @@ Check out the live version of the application here: [Nike Store](https://nike-st
 - **React-Redux**: Official bindings for using React with Redux.
 - **React-Hot-Toast**: Toast notifications library for React.
 
-## Installation
+# Project Title
 
-To get started with the project, follow these steps:
+## Plugins Used
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repository/nike-store.git
+- **@vitejs/plugin-react**: Uses Babel for Fast Refresh.
+- **@vitejs/plugin-react-swc**: Uses SWC for Fast Refresh.
+
+## Important Links
+
+- [Vite.js Documentation](https://vitejs.dev/)
+- [TailwindCSS Documentation](https://tailwindcss.com/docs)
+- [Redux Toolkit Documentation](https://redux-toolkit.js.org/)
+- [React-Redux Documentation](https://react-redux.js.org/)
+- [React-Hot-Toast Documentation](https://react-hot-toast.com/)
+
+## Contributing
+
+Feel free to fork the project and submit pull requests.
+
+
