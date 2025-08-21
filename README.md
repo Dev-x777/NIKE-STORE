@@ -20,7 +20,7 @@ Check out the live version of the application here: [Nike Store](https://nike-st
 - **TailwindCSS**: Utility-first CSS framework for rapid UI development.
 - **Redux Toolkit**: State management tool optimized for Redux.
 - **React-Redux**: Official bindings for using React with Redux.
-- **React-Hot-Toast**: Toast notifications library for React.
+- **React-Hot-Toast**: Toast notifications library for React..
 
 # Project Title
 
